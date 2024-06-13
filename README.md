@@ -4,7 +4,10 @@
 
 ### Experiences
 🎯 아산 두어스 스타트업 부트캠프 1기 2024.1  
-🐶 UMC 6th server(Spring) 2024.3 ~  
+🐶 UMC 6th server(Spring) 2024.3 ~  / 
+<a href="[https://yeonyeon.tistory.com](https://www.notion.so/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4)">
+  <img src="https://img.shields.io/badge/UMC%20Server-11B48A?style=flat-square&logo=Spring&logoColor=white&link=[https://yeonyeon.tistory.com](https://www.notion.so/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4)"/>
+</a>
 
 ### Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-meung.tistory.com/)](https://dev-meung.tistory.com/) https://dev-meung.tistory.com  
