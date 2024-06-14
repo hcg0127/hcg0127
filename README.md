@@ -1,7 +1,8 @@
 # Kim Eunji 🔥
 ### Introduction
 * 백엔드 개발자를 목표로 공부 중인 김은지입니다!
-* Java와 Spring을 바탕으로 다양한 프로젝트에 도전해보려고 합니다.😊
+* Java와 Spring을 바탕으로 다양한 프로젝트에 도전해보려고 합니다.
+* 경험이 많지 않기 때문에 부족한 만큼 더욱 노력해 더 나은 개발자로 성장하겠습니다.
 
 ### Contacts
 * [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FF3008?style=flat-square&logo=tistory&link=https://dev-meung.tistory.com/)](https://dev-meung.tistory.com/) https://dev-meung.tistory.com  
@@ -18,7 +19,7 @@
   
 🐶 UMC 6th server(Spring) 리버/김은지 2024.3 ~  
 * <a href="https://giant-pantydraco-698.notion.site/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4">Server 워크북</a>  
-* <a href="https://giant-pantydraco-698.notion.site/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4">Server 깃허브</a>  
+* <a href="https://github.com/UMC-6th-ERICA-Server-Spring/SERVER-A.git">Server 깃허브</a>  
 
 # Skills
 ### Platforms & Languages
