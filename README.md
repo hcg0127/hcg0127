@@ -10,7 +10,7 @@
 </a>
 
 ### Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-meung.tistory.com/)](https://dev-meung.tistory.com/) https://dev-meung.tistory.com  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FF3008?style=flat-square&logo=tistory&link=https://dev-meung.tistory.com/)](https://dev-meung.tistory.com/) https://dev-meung.tistory.com  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kej431003@gmail.com)](mailto:kej431003@gmail.com) kej431003@gmail.com  
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:beejak@naver.com)](mailto:beejak@naver.com) beejak@naver.com  
   
