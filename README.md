@@ -5,8 +5,8 @@
 ### Experiences
 🎯 아산 두어스 스타트업 부트캠프 1기 2024.1  
 🐶 UMC 6th server(Spring) 2024.3 ~  / 
-<a href="https://www.notion.so/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4">
-  <img src="https://img.shields.io/badge/UMC%20Server-11B48A?style=flat-square&logo=Spring&logoColor=white&link=https://www.notion.so/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4"/>
+<a href="https://giant-pantydraco-698.notion.site/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4">
+  <img src="https://img.shields.io/badge/UMC%20Server-11B48A?style=flat-square&logo=Spring&logoColor=white&link=https://giant-pantydraco-698.notion.site/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4"/>
 </a>
 
 ### Contacts
