@@ -17,7 +17,7 @@
 * 기획/디자인 - 외국인 유학생의 한국 정착을 위한 커리어 빌딩 플랫폼
 * 창업 교육 - 비즈니스모델, MVP 제작, 시장 검증 등
   
-🐶 UMC 6th server(Spring) 리버/김은지 2024.3 ~  
+🐶 UMC 6th server(Spring) 리버/김은지 2024.3 ~ 8
 * <a href="https://giant-pantydraco-698.notion.site/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4">Server 워크북</a>  
 * <a href="https://github.com/UMC-6th-ERICA-Server-Spring/SERVER-A.git">Server 깃허브</a>  
 
@@ -27,7 +27,7 @@
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
 
 ### Tools
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/> 
+<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
 
 # Projects
 ### Java MVC와 GUI를 활용한 네모로직 미니 애플리케이션
@@ -37,6 +37,10 @@
 ### Java MVC와 GUI를 활용한 숫자 야구 미니 애플리케이션
 * Languages: Java
 * 2022.11 ~ 12
+
+### [트게더] 소중한 사람들과 보물상자를 만들어, 추억을 열람할 수 있는 서비스
+* Languages: Java
+* 2024.7.4 ~ 7.5
 
 # BOJ RANK
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcg0127)](https://solved.ac/hcg0127/)
