@@ -30,17 +30,13 @@
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
 
 # Projects
-### Java MVC와 GUI를 활용한 네모로직 미니 애플리케이션
-* Languages: Java
-* 2022.10 ~ 12
-
-### Java MVC와 GUI를 활용한 숫자 야구 미니 애플리케이션
-* Languages: Java
-* 2022.11 ~ 12
-
 ### [트게더] 소중한 사람들과 보물상자를 만들어, 추억을 열람할 수 있는 서비스
 * Languages: Java
 * 2024.7.4 ~ 7.5
+
+### [하루치] 지출 통제 도우미
+* Languages: Java
+* 2024.7.12 ~ 8.
 
 # BOJ RANK
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcg0127)](https://solved.ac/hcg0127/)
