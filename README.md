@@ -36,7 +36,7 @@
 
 ### [하루치] 지출 통제 도우미
 * Languages: Java
-* 2024.7.12 ~ 8.
+* 2024.7.12 ~ 8.22
 
 # BOJ RANK
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcg0127)](https://solved.ac/hcg0127/)
