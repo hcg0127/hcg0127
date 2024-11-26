@@ -38,5 +38,9 @@
 * Languages: Java
 * 2024.7.12 ~ 8.22
 
+### [리플리] 회고 및 새해 계획 랜덤 질문 서비스
+* Language: Java
+* 2024.11.23 ~ 11.24
+
 # BOJ RANK
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcg0127)](https://solved.ac/hcg0127/)
