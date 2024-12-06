@@ -42,5 +42,9 @@
 * Language: Java
 * 2024.11.23 ~ 11.24
 
+### [느린 우체통] 편지 작성 서비스
+* Language: Java
+* 2024.11.24 ~ 11.30
+
 # BOJ RANK
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcg0127)](https://solved.ac/hcg0127/)
