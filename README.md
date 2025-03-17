@@ -46,5 +46,9 @@
 * Language: Java
 * 2024.11.24 ~ 11.30
 
+# Certificate
+### 제 55회 SQL 개발자(SQLD)
+* 2024.12.13 취득
+
 # BOJ RANK
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcg0127)](https://solved.ac/hcg0127/)
