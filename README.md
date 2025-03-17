@@ -18,8 +18,8 @@
 * 창업 교육 - 비즈니스모델, MVP 제작, 시장 검증 등
   
 🐶 UMC 6th server(Spring) 리버/김은지 2024.3 ~ 8
-* <a href="https://giant-pantydraco-698.notion.site/Server-07c0c853430b4ec8b145676ebb98724a?pvs=4">Server 워크북</a>  
-* <a href="https://github.com/UMC-6th-ERICA-Server-Spring/SERVER-A.git">Server 깃허브</a>  
+
+🐶 UMC 8th server(Spring) 리버/김은지 2025.3 ~ 8
 
 # Skills
 ### Platforms & Languages
