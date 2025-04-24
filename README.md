@@ -1,13 +1,9 @@
 # Kim Eunji 🔥
-### Introduction
-* 백엔드 개발자를 목표로 공부 중인 김은지입니다!
-* Java와 Spring을 바탕으로 다양한 프로젝트에 도전해보려고 합니다.
-* 경험이 많지 않기 때문에 부족한 만큼 더욱 노력해 더 나은 개발자로 성장하겠습니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Eunji&fontSize=90)
 
 ### Contacts
 * [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FF3008?style=flat-square&logo=tistory&link=https://dev-meung.tistory.com/)](https://dev-meung.tistory.com/) https://dev-meung.tistory.com  
-* [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kej431003@gmail.com)](mailto:kej431003@gmail.com) kej431003@gmail.com  
-* [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:beejak@naver.com)](mailto:beejak@naver.com) beejak@naver.com  
+* [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kej431003@gmail.com)](mailto:kej431003@gmail.com) kej431003@gmail.com
 
 ### Educations
 🏫 한양대학교 ERICA 캠퍼스, 컴퓨터학부 2022.3 ~
