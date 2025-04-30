@@ -17,6 +17,8 @@
 
 🐶 UMC 8th server(Spring) 리버/김은지 2025.3 ~ 8
 
+🐦 제16기 KOSAF 사회리더 대학생 멘토링 멘티 2025.4 ~ 11
+
 # Skills
 ### Platforms & Languages
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="cplusplus" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
