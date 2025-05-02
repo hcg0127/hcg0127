@@ -20,7 +20,7 @@
 * [UMC-8th-Server-Spring](https://github.com/hcg0127/UMC-8th-Server-Spring.git)
 
 🐦 KOSAF 제16기 사회리더 대학생 멘토링 멘티 2025.4 ~ 11
-* 진로탐색/금융 - IT개발운영, 핀테크, 금융IT 등
+* 진로탐색/금융 - IT개발운영, 핀테크, 금융IT 교육 및 기업 탐방 등
 
 # Skills
 ### Platforms & Languages
