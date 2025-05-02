@@ -1,5 +1,5 @@
 # Kim Eunji 🔥
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Eunji&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20&fontSize=90)
 
 ### Educations
 🏫 한양대학교 ERICA 캠퍼스, 컴퓨터학부 2022.3 ~
