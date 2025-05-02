@@ -1,10 +1,6 @@
 # Kim Eunji 🔥
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Eunji&fontSize=90)
 
-### Contacts
-* [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FF3008?style=flat-square&logo=tistory&link=https://dev-meung.tistory.com/)](https://dev-meung.tistory.com/) https://dev-meung.tistory.com  
-* [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kej431003@gmail.com)](mailto:kej431003@gmail.com) kej431003@gmail.com
-
 ### Educations
 🏫 한양대학교 ERICA 캠퍼스, 컴퓨터학부 2022.3 ~
 
