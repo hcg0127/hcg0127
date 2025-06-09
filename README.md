@@ -6,17 +6,12 @@
 
 ### Experiences
 🎯 아산 두어스 스타트업 부트캠프 1기 2024.1.17 ~ 1.19
-* 기획/디자인 - 외국인 유학생의 한국 정착을 위한 커리어 빌딩 플랫폼
-* 창업 교육 - 비즈니스모델, MVP 제작, 시장 검증 등
   
 🐶 UMC 6th Server(Spring) 리버/김은지 2024.3 ~ 8
-* [SERVER-A](https://github.com/UMC-6th-ERICA-Server-Spring/SERVER-A.git)
 
 🐶 UMC 8th Server(Spring) 리버/김은지 2025.3 ~ 8
-* [UMC-8th-Server-Spring](https://github.com/hcg0127/UMC-8th-Server-Spring.git)
 
 🐦 KOSAF 제16기 사회리더 대학생 멘토링 멘티 2025.4 ~ 11
-* 진로탐색/금융 - IT개발운영, 핀테크, 금융IT 교육 및 기업 탐방 등
 
 # Skills
 ### Platforms & Languages
@@ -28,19 +23,15 @@
 
 # Projects
 ### [트게더] 소중한 사람들과 보물상자를 만들어, 추억을 열람할 수 있는 서비스
-* Languages: Java
 * 2024.7.4 ~ 7.5
 
 ### [하루치] 지출 통제 도우미
-* Languages: Java
 * 2024.7.12 ~ 8.22
 
 ### [리플리] 회고 및 새해 계획 랜덤 질문 서비스
-* Language: Java
 * 2024.11.23 ~ 11.24
 
 ### [느린 우체국] 편지 작성 서비스
-* Language: Java
 * 2024.11.24 ~ 11.30
 
 # Certificates
