@@ -7,9 +7,9 @@
 ### Experiences
 🎯 아산 두어스 대학생 창업 부트캠프 1기 2024.1.17 ~ 1.19
   
-🐶 UMC 6th Server(Spring) 리버/김은지 2024.3 ~ 8
+🐶 UMC 6th Server(Spring) 파트원 2024.3 ~ 8
 
-🐶 UMC 8th Server(Spring) 리버/김은지 2025.3 ~ 8
+🐶 UMC 8th Server(Spring) 파트원 2025.3 ~ 8
 
 🐦 KOSAF 제16기 사회리더 대학생 멘토링 멘티 2025.4 ~ 11
 
@@ -19,27 +19,27 @@
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
 
 ### Tools
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
+<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
 
 # Projects
 ### [트게더] 소중한 사람들과 보물상자를 만들어, 추억을 열람할 수 있는 서비스
-* Java & Spring
+* Java & Spring Backend Developer
 * 2024.7.4 ~ 7.5
 
 ### [하루치] 지출 통제 도우미
-* Java & Spring
+* Java & Spring Backend Developer
 * 2024.7.12 ~ 8.22
 
 ### [리플리] 회고 및 새해 계획 랜덤 질문 서비스
-* Java & Spring
+* Java & Spring Backend Developer
 * 2024.11.23 ~ 11.24
 
 ### [느린 우체국] 편지 작성 서비스
-* Java & Spring
+* Java & Spring Backend Lead Developer
 * 2024.11.24 ~ 11.30
 
 ### [퍼퓨온미] 나만의 향기를 찾아주는 서비스
-* Java & Spring
+* Java & Spring Backend Lead Developer
 * 2025.6.28 ~ 8.22
 
 # Certificates
