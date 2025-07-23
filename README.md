@@ -43,7 +43,7 @@
 * 2025.6.28 ~ 8.22
 
 ## Certificates
-### 제 55회 SQL 개발자(SQLD)
+##### 제 55회 SQL 개발자(SQLD)
 * 2024.12.13 취득
 
 ## BOJ RANK
