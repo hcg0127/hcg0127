@@ -21,22 +21,8 @@
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
 
 ## Projects
-##### [트게더] 소중한 사람들과 보물상자를 만들어, 추억을 열람할 수 있는 서비스 <sup>24.07.04 ~ 24.07.05</sup>
-
-##### [하루치] 지출 통제 도우미 <sup>24.07 ~ 24.08</sup>
-
-##### [리플리] 회고 및 새해 계획 랜덤 질문 서비스 <sup>24.11.23 ~ 24.11.24</sup>
-
-##### [느린 우체국] 편지 작성 서비스 <sup>24.11.24 ~ 24.11.30</sup>
+##### [하루치] 지출 통제 도우미 <sup>24.07 ~ 24.08 | 26.03 ~ </sup>
 
 ##### [퍼퓨온미] 나만의 향기를 찾아주는 서비스 <sup>25.06 ~ 25.08</sup>
 
-##### [그리니] AI 기반 어린이 대상 대화 서비스 <sup>25.07 ~ </sup>
-
-##### [여백] AI 기반 개인 옷장 서비스 <sup>25.12 ~ </sup>
-
-## Certificates
-##### 제 55회 SQL 개발자(SQLD) <sup>24.12.13 취득</sup>
-
-## BOJ RANK
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcg0127)](https://solved.ac/hcg0127/)
+##### [그리니] AI 기반 어린이 대상 대화 서비스 <sup>25.07 ~ 26.06</sup>
